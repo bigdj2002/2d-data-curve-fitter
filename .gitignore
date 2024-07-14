@@ -1,0 +1,6 @@
+# Folders on debug
+.vscode
+
+# Folders on build and compile
+build
+bin
